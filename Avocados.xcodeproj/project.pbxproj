@@ -19,6 +19,7 @@
 		968FCBB32ACD93AA00BF9324 /* RecipeRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968FCBB22ACD93AA00BF9324 /* RecipeRatingView.swift */; };
 		968FCBB52ACD941200BF9324 /* RecipeCookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968FCBB42ACD941200BF9324 /* RecipeCookingView.swift */; };
 		968FCBB72ACD947400BF9324 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968FCBB62ACD947400BF9324 /* RecipeDetailView.swift */; };
+		968FCBB92ACD999900BF9324 /* RipeningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968FCBB82ACD999800BF9324 /* RipeningView.swift */; };
 		96B7AD882ACCA59B0067E637 /* AvocadosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B7AD872ACCA59B0067E637 /* AvocadosApp.swift */; };
 		96B7AD8A2ACCA59B0067E637 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B7AD892ACCA59B0067E637 /* ContentView.swift */; };
 		96B7AD8C2ACCA59E0067E637 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96B7AD8B2ACCA59E0067E637 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		968FCBB22ACD93AA00BF9324 /* RecipeRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeRatingView.swift; sourceTree = "<group>"; };
 		968FCBB42ACD941200BF9324 /* RecipeCookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCookingView.swift; sourceTree = "<group>"; };
 		968FCBB62ACD947400BF9324 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		968FCBB82ACD999800BF9324 /* RipeningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RipeningView.swift; sourceTree = "<group>"; };
 		96B7AD842ACCA59B0067E637 /* Avocados.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Avocados.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96B7AD872ACCA59B0067E637 /* AvocadosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvocadosApp.swift; sourceTree = "<group>"; };
 		96B7AD892ACCA59B0067E637 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				968FCBB22ACD93AA00BF9324 /* RecipeRatingView.swift */,
 				968FCBB42ACD941200BF9324 /* RecipeCookingView.swift */,
 				968FCBB62ACD947400BF9324 /* RecipeDetailView.swift */,
+				968FCBB82ACD999800BF9324 /* RipeningView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				968FCBA32ACD849000BF9324 /* HeaderData.swift in Sources */,
 				968FCBA52ACD86A900BF9324 /* DishesView.swift in Sources */,
 				968FCBB52ACD941200BF9324 /* RecipeCookingView.swift in Sources */,
+				968FCBB92ACD999900BF9324 /* RipeningView.swift in Sources */,
 				968FCBA92ACD8D5E00BF9324 /* FactModel.swift in Sources */,
 				968FCBA72ACD8B6600BF9324 /* FactsView.swift in Sources */,
 				968FCBB12ACD8FAF00BF9324 /* RecipeCardView.swift in Sources */,
